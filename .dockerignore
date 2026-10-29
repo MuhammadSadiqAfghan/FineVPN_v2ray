@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+__pycache__
+*.py[cod]
+*.bak
+*.tmp
+*.log
+.env
+.env.*
+data/
+backups/
+cookies*.txt
+panel_secret.key
